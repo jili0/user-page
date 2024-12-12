@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: black;
+}
+
+body {
+  font-family: Verdana, sans-serif;
+  color: white;
+  background-color: rgb(89, 111, 199);
+  background-image: linear-gradient(
+    to left bottom,
+    rgb(22, 48, 150),
+    rgb(89, 111, 199) 60%,
+    rgb(150, 164, 218) 35%
+  );
+  height: 95vh;
+  width: 90%;
+  max-width: 32rem;
+  padding: 1rem;
+  border-radius: 4px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 1rem;
+}
