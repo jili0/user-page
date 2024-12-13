@@ -1,7 +1,7 @@
 {
   "name": "user-page",
   "private": true,
-  "homepage": "https://jili0.me/user-page/",
+  "homepage": "./",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
