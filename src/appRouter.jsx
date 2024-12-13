@@ -18,5 +18,6 @@ export const appRouter = createBrowserRouter(
       <Route path="/friends" element={<FriendsList />} />
       <Route path="/*" element={<NotFound />} />
     </Route>
-  )
+  ),
+  { basename: "/user-page/" }
 );
