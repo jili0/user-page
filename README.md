@@ -1,2 +1,2 @@
 ### User Page
-A simple user page to practice useContext, useEffect, useState, FetchAPI, useRef and React Router.
+A simple user page to practice ContextAPI, useEffect, useState, FetchAPI, useRef and React Router.
